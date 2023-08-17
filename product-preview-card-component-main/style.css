@@ -123,7 +123,10 @@ footer {
   font-family: "fraunces", serif;
   font-weight: 700;
 }
-
+.attribution{
+  margin-block-start: -80px;
+  
+}
 /* Tablet size 820px*/
 @media (max-width:820px){
   .design {
